@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "symfony/panther": "^2.0",
+        "dbrekelmans/bdi": "^1.0",
+        "behat/mink": "^1.10",
+        "behat/mink-goutte-driver": "^2.0"
+    },
+    "require": {
+        "chrome-php/chrome": "^1.6",
+        "behat/mink-selenium2-driver": "^1.6"
+    }
+}
